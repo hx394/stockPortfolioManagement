@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<apple2024-03-25>
+    <portfolio_name>apple</portfolio_name>
+    <sold>false</sold>
+    <value>1722800.0</value>
+    <initial_value>1722800.0</initial_value>
+    <stocks>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>172.28</price>
+            <shares>10000</shares>
+            <initial_price>173.23</initial_price>
+            <trade_time>2024-03-12</trade_time>
+        </AAPL>
+    </stocks>
+</apple2024-03-25>

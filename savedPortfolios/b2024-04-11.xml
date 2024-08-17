@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b2024-04-11>
+    <portfolio_name>b</portfolio_name>
+    <sold>false</sold>
+    <value>165934.42</value>
+    <initial_value>0.0</initial_value>
+    <stocks>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>167.78</price>
+            <shares>1000.0</shares>
+            <initial_price>169.58</initial_price>
+            <trade_time>2024-04-05</trade_time>
+        </AAPL>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>167.78</price>
+            <shares>-11.0</shares>
+            <initial_price>167.78</initial_price>
+            <trade_time>2024-04-10</trade_time>
+        </AAPL>
+    </stocks>
+</b2024-04-11>

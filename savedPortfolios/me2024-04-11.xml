@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<me2024-04-11>
+    <portfolio_name>me</portfolio_name>
+    <sold>false</sold>
+    <value>0.0</value>
+    <initial_value>0.0</initial_value>
+    <stocks>
+        <IBM>
+            <symbol>IBM</symbol>
+            <price>0.0</price>
+            <shares>100.0</shares>
+            <initial_price>122.36</initial_price>
+            <trade_time>2021-03-03</trade_time>
+        </IBM>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>0.0</price>
+            <shares>100.0</shares>
+            <initial_price>150.82</initial_price>
+            <trade_time>2023-02-02</trade_time>
+        </AAPL>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>0.0</price>
+            <shares>-100.0</shares>
+            <initial_price>192.46</initial_price>
+            <trade_time>2023-07-03</trade_time>
+        </AAPL>
+    </stocks>
+</me2024-04-11>

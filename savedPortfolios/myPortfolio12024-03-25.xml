@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<myPortfolio12024-03-25>
+    <portfolio_name>myPortfolio1</portfolio_name>
+    <sold>false</sold>
+    <value>101800.0</value>
+    <initial_value>101800.0</initial_value>
+    <stocks>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>172.28</price>
+            <shares>100</shares>
+            <initial_price>172.28</initial_price>
+            <trade_time>2024-03-25</trade_time>
+        </AAPL>
+        <MSFT>
+            <symbol>MSFT</symbol>
+            <price>422.86</price>
+            <shares>200</shares>
+            <initial_price>422.86</initial_price>
+            <trade_time>2024-03-25</trade_time>
+        </MSFT>
+    </stocks>
+</myPortfolio12024-03-25>

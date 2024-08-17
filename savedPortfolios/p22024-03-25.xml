@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<p22024-03-25>
+    <portfolio_name>p2</portfolio_name>
+    <sold>false</sold>
+    <value>95420.0</value>
+    <initial_value>0.0</initial_value>
+    <stocks>
+        <IBM>
+            <symbol>IBM</symbol>
+            <price>190.84</price>
+            <shares>1000</shares>
+            <initial_price>197.78</initial_price>
+            <trade_time>2024-03-12</trade_time>
+        </IBM>
+        <IBM>
+            <symbol>IBM</symbol>
+            <price>190.84</price>
+            <shares>-500</shares>
+            <initial_price>196.7</initial_price>
+            <trade_time>2024-03-13</trade_time>
+        </IBM>
+    </stocks>
+</p22024-03-25>

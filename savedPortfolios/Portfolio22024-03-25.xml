@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio22024-03-25>
+    <portfolio_name>Portfolio2</portfolio_name>
+    <sold>false</sold>
+    <value>17228.0</value>
+    <initial_value>17228.0</initial_value>
+    <stocks>
+        <AAPL>
+            <symbol>AAPL</symbol>
+            <price>172.28</price>
+            <shares>100</shares>
+            <initial_price>173.23</initial_price>
+            <trade_time>2024-03-12</trade_time>
+        </AAPL>
+    </stocks>
+</Portfolio22024-03-25>
